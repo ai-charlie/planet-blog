@@ -1,7 +1,7 @@
-# Papers
 
 ```{toctree}
-:maxdepth: 1
+:caption:Papers
+:hidden:
 
 cv_paper
 ```

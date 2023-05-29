@@ -1,7 +1,7 @@
-# Projects
 
 ```{toctree}
-:maxdepth: 1
+:caption:Project
+:hidden:
 
 ai-examples
 python-project-dev

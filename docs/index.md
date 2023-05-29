@@ -5,74 +5,69 @@ hide-toc: true
 # The Charlie Planet
 A simple record of coding.
 
-## Win bat scipt
-
+```{include} ../README.md
+:start-after: <!-- start elevator-pitch -->
+:end-before: <!-- end elevator-pitch -->
+```
 
 ```{toctree}
-:maxdepth: 1
+:caption: Win bat scipt
+:hidden:
 
 bat/index
 ```
 
 
-## Concepts
-
 ```{toctree}
-:maxdepth: 1
+caption: Concepts
+:hidden:
 
 concepts/index
 ```
 
 
-## Datasets
-
 ```{toctree}
-:maxdepth: 1
+caption: Datasets
+:hidden:
 
 datasets/index
 ```
 
 
-## Papers
-
 ```{toctree}
-:maxdepth: 1
+caption: Papers
+:hidden:
 
 papers/index
 ```
 
 
-## Projects
-
 ```{toctree}
-:maxdepth: 1
-
+caption: Projects
+:hidden:
 projects/index
 ```
 
 
-## Resources
-
 ```{toctree}
-:maxdepth: 1
+caption: Python
+:hidden:
 
 python/index
 ```
 
 
-## Resources
-
 ```{toctree}
-:maxdepth: 1
+caption: Resources
+:hidden:
 
 resources/index
 ```
 
 
-## Steps-by-steps
-
 ```{toctree}
-:maxdepth: 1
+caption:  Steps-by-steps
+:hidden:
 
 steps-by-steps/index
 ```

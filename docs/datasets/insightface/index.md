@@ -1,7 +1,7 @@
-# Insightface
 
 ```{toctree}
-:maxdepth: 1
+:caption:Insightface
+:hidden:
 
 face-alignment
 face-attribute

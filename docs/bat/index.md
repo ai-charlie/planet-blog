@@ -1,7 +1,6 @@
-# bat
-
 ```{toctree}
-:maxdepth: 1
+:caption:bat
+:hidden:
 
 ping一个网段
 生成文件目录

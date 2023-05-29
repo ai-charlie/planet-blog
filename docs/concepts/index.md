@@ -1,7 +1,8 @@
-# Concepts
 
 ```{toctree}
-:maxdepth: 1
+:caption:Concepts
+:hidden:
+
 
 cpp_note
 DP-KL

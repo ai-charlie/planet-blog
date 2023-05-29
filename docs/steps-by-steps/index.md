@@ -1,7 +1,7 @@
-# Concepts
 
 ```{toctree}
-:maxdepth: 2
+caption: Step-by-steps
+:hidden:
 
 bashhistory
 compare-Pathlib-with-os-path

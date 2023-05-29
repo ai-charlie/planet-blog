@@ -1,7 +1,6 @@
-# Python
-
 ```{toctree}
-:maxdepth: 1
+:caption:Python
+:hidden:
 
 python单例模式
 python省略号

@@ -1,7 +1,7 @@
-# resources
 
 ```{toctree}
-:maxdepth: 1
+:caption:Resources
+:hidden:
 
 BOOK
 front-dev
