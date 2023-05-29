@@ -6,4 +6,5 @@
 ai-examples
 python-project-dev
 uml
+face-recognition
 ```

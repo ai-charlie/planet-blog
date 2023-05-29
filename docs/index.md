@@ -14,15 +14,16 @@ A simple record of coding.
   content: "Customize colors and branding with CSS variables, and build custom UIs with [Sphinx Design](user_guide/web-components)."
 - header: "{fab}`python` Supports PyData and Jupyter"
   content: "CSS and UI support for Jupyter extensions and PyData execution outputs."
-  link: "examples/pydata.html"
+  <!-- link: "examples/pydata.html" -->
 - header: "💡 Example Gallery"
   content: "See our gallery of projects that use this theme."
-  link: "examples/gallery.html"
+  <!-- link: "examples/gallery.html" -->
 ```
 
 ```{seealso}
 
 ```
+
 
 ## Win bat scipt
 
@@ -33,15 +34,17 @@ A simple record of coding.
 bat/index
 ```
 
+
 ## Concepts
+
 ```{toctree}
 :maxdepth: 1
 
 concepts/index
 ```
 
-## Datasets
 
+## Datasets
 
 ```{toctree}
 :maxdepth: 1
@@ -49,8 +52,8 @@ concepts/index
 datasets/index
 ```
 
-## Papers
 
+## Papers
 
 ```{toctree}
 :maxdepth: 1
@@ -58,14 +61,15 @@ datasets/index
 papers/index
 ```
 
-## Projects
 
+## Projects
 
 ```{toctree}
 :maxdepth: 1
 
 projects/index
 ```
+
 
 ## Resources
 
@@ -75,6 +79,7 @@ projects/index
 python/index
 ```
 
+
 ## Resources
 
 ```{toctree}
@@ -83,9 +88,8 @@ python/index
 resources/index
 ```
 
+
 ## Steps-by-steps
-
-
 
 ```{toctree}
 :maxdepth: 1
