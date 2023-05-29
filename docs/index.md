@@ -24,9 +24,16 @@ A simple record of coding.
 
 ```
 
+## Win bat scipt
+
+
+```{toctree}
+:maxdepth: 1
+
+bat/index
+```
+
 ## Concepts
-
-
 ```{toctree}
 :maxdepth: 1
 
