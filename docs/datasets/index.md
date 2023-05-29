@@ -6,8 +6,5 @@
 insightface
 tracking-paper-and-data
 tracking
-insightface/face-alignment
-insightface/face-attribute
-insightface/face-detection
-insightface/face-recognition
+insightface/index
 ```
